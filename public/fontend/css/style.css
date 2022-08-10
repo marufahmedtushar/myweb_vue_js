@@ -393,9 +393,7 @@ footer {
 		font-size: 22px;
 		font-weight: bold;
 	}
-	.section2 .container .courses .row .col-lg-6:nth-child(2){
-		display: none;
-	}
+	
 	/*Section3*/
 	.section3{
 		padding-top: 10px!important;
